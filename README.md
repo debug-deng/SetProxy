@@ -69,7 +69,9 @@ A lightweight Windows system proxy management application built with Tauri + Vue
 
 ## Screenshots | 截图
 
-> Add your screenshots here | 在此添加截图
+![主界面](http://img.innet.cloud/i/2026/04/23/69e9e75ee80cd.jpg)
+
+![代理配置](http://img.innet.cloud/i/2026/04/23/69e9e760c154f.jpg)
 
 ---
 
